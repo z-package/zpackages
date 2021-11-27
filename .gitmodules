@@ -16,3 +16,6 @@
 [submodule "fzy"]
 	path = fzy
 	url = https://github.com/z-shell/fzy.git
+[submodule "firefox-dev"]
+	path = firefox-dev
+	url = https://github.com/z-shell/firefox-dev.git
