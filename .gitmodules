@@ -7,3 +7,12 @@
 [submodule "apr"]
 	path = apr
 	url = https://github.com/z-shell/apr.git
+[submodule "pyenv"]
+	path = pyenv
+	url = https://github.com/z-shell/pyenv.git
+[submodule "fzf"]
+	path = fzf
+	url = https://github.com/z-shell/fzf.git
+[submodule "fzy"]
+	path = fzy
+	url = https://github.com/z-shell/fzy.git
