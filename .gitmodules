@@ -1,3 +1,9 @@
 [submodule "any-gem"]
 	path = any-gem
 	url = https://github.com/z-shell/any-gem
+[submodule "any-node"]
+	path = any-node
+	url = https://github.com/z-shell/any-node.git
+[submodule "apr"]
+	path = apr
+	url = https://github.com/z-shell/apr.git
