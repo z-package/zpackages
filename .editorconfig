@@ -32,5 +32,3 @@ indent_style = tab
 
 [*.{sh,zsh}]
 indent_style = space
-shell_variant   = sh
-#max_line_length = 120
