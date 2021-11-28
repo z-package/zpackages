@@ -19,3 +19,6 @@
 [submodule "firefox-dev"]
 	path = firefox-dev
 	url = https://github.com/z-shell/firefox-dev.git
+[submodule "dircolors-material"]
+	path = dircolors-material
+	url = https://github.com/z-shell/dircolors-material.git
