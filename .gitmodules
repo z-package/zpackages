@@ -22,3 +22,6 @@
 [submodule "dircolors-material"]
 	path = dircolors-material
 	url = https://github.com/z-shell/dircolors-material.git
+[submodule "subversion"]
+	path = subversion
+	url = https://github.com/z-shell/subversion
