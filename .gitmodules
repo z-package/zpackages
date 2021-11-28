@@ -25,3 +25,6 @@
 [submodule "subversion"]
 	path = subversion
 	url = https://github.com/z-shell/subversion
+[submodule "remark"]
+	path = remark
+	url = https://github.com/z-shell/remark
