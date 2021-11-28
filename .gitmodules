@@ -28,3 +28,6 @@
 [submodule "remark"]
 	path = remark
 	url = https://github.com/z-shell/remark
+[submodule "ls_colors"]
+	path = ls_colors
+	url = https://github.com/z-shell/ls_colors
