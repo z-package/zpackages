@@ -31,3 +31,9 @@
 [submodule "ls_colors"]
 	path = ls_colors
 	url = https://github.com/z-shell/ls_colors
+[submodule "H-S-MW"]
+    path = H-S-MW
+    url = https://github.com/z-shell/H-S-MW.git
+[submodule "agkozak-zsh-prompt"]
+    path = agkozak-zsh-prompt
+    url = https://github.com/z-shell/agkozak-zsh-prompt
