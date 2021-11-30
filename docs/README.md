@@ -16,10 +16,10 @@
 
 # ZI Packages
 
-Packages in thees repositories are compatible with [ZI](https://github.com/z-shell/zi)
+Packages in these repositories are compatible with [ZI](https://github.com/z-shell/zi)
 
 > **[?]**
-> We are currently working in possible solutions to simplify the syntax and usage across the repositories. Please feel free to discuss any suggests.
+> We are currently working on possible solutions to simplify the syntax and usage across the repositories. Please feel free to discuss any suggestions.
 > Accordingly to the mentioned above documentation will follow soon after.
 
 ## Contributing
@@ -33,7 +33,7 @@ For contributions to ZI Packages, please read [our contribution guidelines](docs
 ### Installation
 
 > **[?]**
-> Each package repository contains installation details. For additional information please open an issue to specific package repository.
+> Each package repository contains installation details. For additional information please open an issue to a specific package repository.
 
 ## Roadmap
 
@@ -46,7 +46,7 @@ See the [open issues](https://github.com/z-shell/zi-packages/issues) for a list 
 ## Support
 
 > **[?]**
-> Do not hesitate to ask questions. Don't let the language barriers or something similar to stop you, because it's easier when we support each other and can together grow :smile:
+> Do not hesitate to ask questions. Don't let the language barriers or something similar stop you, because it's easier when we support each other and can together grow :smile:
 
 Reach out to the maintainer at one of the following places:
 
@@ -70,7 +70,7 @@ For a full list of all authors and contributors, see [the contributors page](htt
 ## Security
 
 ZI Packages follows good practices of security, but 100% security cannot be assured.
-ZI Packages is provided **"as is"** without any **warranty**. Use at your own risk.
+ZI Packages is provided **" as is"** without any **warranty**. Use at your own risk.
 
 _For more information and to report security issues, please refer to our [security documentation](/SECURITY.md)._
 
