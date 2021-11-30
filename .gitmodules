@@ -37,3 +37,6 @@ url = https://github.com/z-shell/H-S-MW
 [submodule "agkozak-zsh-prompt"]
 path = agkozak-zsh-prompt
 url = https://github.com/z-shell/agkozak-zsh-prompt
+[submodule "F-Sy-H"]
+	path = F-Sy-H
+	url = https://github.com/z-shell/F-Sy-H
