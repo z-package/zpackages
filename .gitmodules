@@ -1,39 +1,36 @@
 [submodule "any-gem"]
-	path = any-gem
-	url = https://github.com/z-shell/any-gem
+path = any-gem
+url = https://github.com/z-shell/any-gem
 [submodule "any-node"]
-	path = any-node
-	url = https://github.com/z-shell/any-node.git
+path = any-node
+url = https://github.com/z-shell/any-node.git
 [submodule "apr"]
-	path = apr
-	url = https://github.com/z-shell/apr.git
+path = apr
+url = https://github.com/z-shell/apr.git
 [submodule "pyenv"]
-	path = pyenv
-	url = https://github.com/z-shell/pyenv.git
+path = pyenv
+url = https://github.com/z-shell/pyenv.git
 [submodule "fzf"]
-	path = fzf
-	url = https://github.com/z-shell/fzf.git
+path = fzf
+url = https://github.com/z-shell/fzf.git
 [submodule "fzy"]
-	path = fzy
-	url = https://github.com/z-shell/fzy.git
+path = fzy
+url = https://github.com/z-shell/fzy.git
 [submodule "firefox-dev"]
-	path = firefox-dev
-	url = https://github.com/z-shell/firefox-dev.git
+path = firefox-dev
+url = https://github.com/z-shell/firefox-dev.git
 [submodule "dircolors-material"]
-	path = dircolors-material
-	url = https://github.com/z-shell/dircolors-material.git
+path = dircolors-material
+url = https://github.com/z-shell/dircolors-material.git
 [submodule "subversion"]
-	path = subversion
-	url = https://github.com/z-shell/subversion
+path = subversion
+url = https://github.com/z-shell/subversion
 [submodule "remark"]
-	path = remark
-	url = https://github.com/z-shell/remark
+path = remark
+url = https://github.com/z-shell/remark
 [submodule "ls_colors"]
-	path = ls_colors
-	url = https://github.com/z-shell/ls_colors
+path = ls_colors
+url = https://github.com/z-shell/ls_colors
 [submodule "H-S-MW"]
-    path = H-S-MW
-    url = https://github.com/z-shell/H-S-MW.git
-[submodule "agkozak-zsh-prompt"]
-    path = agkozak-zsh-prompt
-    url = https://github.com/z-shell/agkozak-zsh-prompt
+path = H-S-MW
+url = https://github.com/z-shell/H-S-MW.git

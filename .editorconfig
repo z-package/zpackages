@@ -25,10 +25,3 @@ indent_size = 2
 [*.json]
 indent_style = space
 indent_size = 2
-
-[.git*]
-indent_size = tab
-indent_style = tab
-
-[*.{sh,zsh}]
-indent_style = space
