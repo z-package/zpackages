@@ -31,3 +31,9 @@ url = https://github.com/z-shell/remark
 [submodule "ls_colors"]
 path = ls_colors
 url = https://github.com/z-shell/ls_colors
+[submodule "zsh"]
+	path = zsh
+	url = https://github.com/z-shell/zsh
+[submodule "system-completions"]
+	path = system-completions
+	url = https://github.com/z-shell/system-completions
