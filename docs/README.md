@@ -22,6 +22,25 @@ Packages in these repositories are compatible with [ZI](https://github.com/z-she
 > We are currently working on possible solutions to simplify the syntax and usage across the repositories. Please feel free to discuss any suggestions.
 > Accordingly to the mentioned above documentation will follow soon after.
 
+
+### Installation
+
+> **[?]**
+> Each package repository contains all installation details.
+>
+> For additional information please open an issue to a specific package repository.
+
+Install default package profile:
+	
+```zsh
+zi pack for <package-name>
+	
+# Example
+zi pack for pyenv
+```
+This will run all required commands for you.
+	
+
 ## Contributing
 
 First off, thanks for taking the time to contribute! Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make will benefit everybody else and are **greatly appreciated**.
@@ -29,12 +48,7 @@ First off, thanks for taking the time to contribute! Contributions are what make
 For contributions to ZI Packages, please read [our contribution guidelines](docs/CONTRIBUTING.md), additionally, you can check the main project [contribution guidelines](https://github.com/z-shell/zi/blob/main/docs/CONTRIBUTING.md).
 
 > **[?]** > **New contributor friendly**
-
-### Installation
-
-> **[?]**
-> Each package repository contains installation details. For additional information please open an issue to a specific package repository.
-
+	
 ## Roadmap
 
 See the [open issues](https://github.com/z-shell/zi-packages/issues) for a list of proposed features (and known issues).
