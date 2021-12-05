@@ -1,39 +1,52 @@
 [submodule "any-gem"]
+branch = main
 path = any-gem
 url = https://github.com/z-shell/any-gem
 [submodule "any-node"]
+branch = main
 path = any-node
 url = https://github.com/z-shell/any-node.git
 [submodule "apr"]
+branch = main
 path = apr
 url = https://github.com/z-shell/apr.git
 [submodule "pyenv"]
+branch = main
 path = pyenv
 url = https://github.com/z-shell/pyenv.git
 [submodule "fzf"]
+branch = main
 path = fzf
 url = https://github.com/z-shell/fzf.git
 [submodule "fzy"]
+branch = main
 path = fzy
 url = https://github.com/z-shell/fzy.git
 [submodule "firefox-dev"]
+branch = main
 path = firefox-dev
 url = https://github.com/z-shell/firefox-dev.git
 [submodule "dircolors-material"]
+branch = main
 path = dircolors-material
 url = https://github.com/z-shell/dircolors-material.git
 [submodule "subversion"]
+branch = main
 path = subversion
 url = https://github.com/z-shell/subversion
 [submodule "remark"]
+branch = main
 path = remark
 url = https://github.com/z-shell/remark
 [submodule "ls_colors"]
+branch = main
 path = ls_colors
 url = https://github.com/z-shell/ls_colors
 [submodule "zsh"]
-	path = zsh
-	url = https://github.com/z-shell/zsh
+branch = main
+path = zsh
+url = https://github.com/z-shell/zsh
 [submodule "system-completions"]
-	path = system-completions
-	url = https://github.com/z-shell/system-completions
+branch = main
+path = system-completions
+url = https://github.com/z-shell/system-completions

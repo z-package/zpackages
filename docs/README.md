@@ -12,9 +12,21 @@
 
 </div>
 
----
+<details>
+<summary>Table of contents</summary>
 
-# ZI Packages
+- [ZI Packages](#zi-packages)
+- [Installation](#installation)
+- [Contributing](#contributing)
+- [Roadmap](#roadmap)
+- [Support](#support)
+- [Project assistance](#project-assistance)
+- [Authors & contributors](#authors--contributors)
+- [Security](#security)
+
+</details>
+
+## ZI Packages
 
 Packages in these repositories are compatible with [ZI](https://github.com/z-shell/zi)
 
@@ -22,8 +34,7 @@ Packages in these repositories are compatible with [ZI](https://github.com/z-she
 > We are currently working on possible solutions to simplify the syntax and usage across the repositories. Please feel free to discuss any suggestions.
 > Accordingly to the mentioned above documentation will follow soon after.
 
-
-### Installation
+## Installation
 
 > **[?]**
 > Each package repository contains all installation details.
@@ -31,15 +42,15 @@ Packages in these repositories are compatible with [ZI](https://github.com/z-she
 > For additional information please open an issue to a specific package repository.
 
 Install default package profile:
-	
+
 ```zsh
 zi pack for <package-name>
-	
+
 # Example
 zi pack for pyenv
 ```
+
 This will run all required commands for you.
-	
 
 ## Contributing
 
@@ -47,15 +58,15 @@ First off, thanks for taking the time to contribute! Contributions are what make
 
 For contributions to ZI Packages, please read [our contribution guidelines](docs/CONTRIBUTING.md), additionally, you can check the main project [contribution guidelines](https://github.com/z-shell/zi/blob/main/docs/CONTRIBUTING.md).
 
-> **[?]** > **New contributor friendly**
-	
+> **[?]** **New contributor friendly**
+
 ## Roadmap
 
 See the [open issues](https://github.com/z-shell/zi-packages/issues) for a list of proposed features (and known issues).
 
--   [Top Feature Requests](https://github.com/z-shell/zi-packages/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
--   [Top Bugs](https://github.com/z-shell/zi-packages/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
--   [Newest Bugs](https://github.com/z-shell/zi-packages/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
+- [Top Feature Requests](https://github.com/z-shell/zi-packages/issues?q=label%3Aenhancement+is%3Aopen+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
+- [Top Bugs](https://github.com/z-shell/zi-packages/issues?q=is%3Aissue+is%3Aopen+label%3Abug+sort%3Areactions-%2B1-desc) (Add your votes using the 👍 reaction)
+- [Newest Bugs](https://github.com/z-shell/zi-packages/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 
 ## Support
 
@@ -64,16 +75,16 @@ See the [open issues](https://github.com/z-shell/zi-packages/issues) for a list 
 
 Reach out to the maintainer at one of the following places:
 
--   [GitHub Discussions](https://github.com/z-shell/zi-packages/discussions)
--   Contact options listed on [this GitHub profile](https://github.com/ss-o) and [Github Organization](https://github.com/z-shell).
+- [GitHub Discussions](https://github.com/z-shell/zi-packages/discussions)
+- Contact options listed on [this GitHub profile](https://github.com/ss-o) and [Github Organization](https://github.com/z-shell).
 
 ## Project assistance
 
 If you want to say **thank you** or/and support active development of ZI Packages:
 
--   Add a [GitHub Star](https://github.com/z-shell/zi-packages) to the project.
--   Tweet about the ZI Packages.
--   Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
+- Add a [GitHub Star](https://github.com/z-shell/zi-packages) to the project.
+- Tweet about the ZI Packages.
+- Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
 
 ## Authors & contributors
 
@@ -83,8 +94,8 @@ For a full list of all authors and contributors, see [the contributors page](htt
 
 ## Security
 
-ZI Packages follows good practices of security, but 100% security cannot be assured.
-ZI Packages is provided **" as is"** without any **warranty**. Use at your own risk.
+- ZI Packages follows good practices of security, but 100% security cannot be assured.
+- ZI Packages is provided **" as is"** without any **warranty**. Use at your own risk.
 
 _For more information and to report security issues, please refer to our [security documentation](/SECURITY.md)._
 
