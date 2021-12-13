@@ -50,3 +50,6 @@ url = https://github.com/z-shell/zsh
 branch = main
 path = system-completions
 url = https://github.com/z-shell/system-completions
+[submodule "doctoc"]
+	path = doctoc
+	url = https://github.com/z-shell/doctoc
